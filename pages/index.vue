@@ -22,6 +22,7 @@
         </a>
       </div>
     </div>
+    <NuxtLink to="/todo">ToDo</NuxtLink>
   </div>
 </template>
 

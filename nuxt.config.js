@@ -1,3 +1,4 @@
+console.log('-----------------nuxt config is reading-----------------')
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
